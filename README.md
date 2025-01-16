@@ -1,6 +1,6 @@
 # 👋 Bienvenue sur mon profil GitHub !
 
-Je m'appelle Raji RAHOUI, développeur passionné par la création de solutions innovantes. 🚀  
+Je m'appelle Raji RAHOUI, Etudiant en 2éme année Socle Numérique à EPSI, je suis passionné par la création de solutions innovantes. 🚀  
 Curieux et motivé, j'aime apprendre et explorer les nouvelles technologies pour développer des projets impactants. 🌟  
 
 ## 🔧 Technologies et compétences
