@@ -14,11 +14,12 @@ Curieux et motivé, j'aime apprendre et explorer les nouvelles technologies pour
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <br />
 
+#
 
 ## 🌱 Ce que j'apprends actuellement
 
 En ce moment, je me perfectionne sur :
-- **Langagues :**Jsreact, Php, Sql, Symphony.
+- **Langages :** Jsreact, Php, Sql, Symphony.
 - **Frameworks :** React, Django, Node.js
 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -28,8 +29,10 @@ En ce moment, je me perfectionne sur :
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />
 
+#
 
 ## 📈 Statistiques GitHub
+
 ![Mes Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Rajirahoui&show_icons=true&theme=radical)
 
 ## 🌐 Retrouvons-nous !
