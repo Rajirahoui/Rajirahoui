@@ -17,8 +17,6 @@ Curieux et motivé, j'aime apprendre et explorer les nouvelles technologies pour
 #
 
 ## 🌱 Ce que j'apprends actuellement
-
-En ce moment, je me perfectionne sur :
 - **Langages :** Jsreact, Php, Sql, Symphony.
 - **Frameworks :** React, Django, Node.js
 
@@ -32,7 +30,6 @@ En ce moment, je me perfectionne sur :
 #
 
 ## 📈 Statistiques GitHub
-
 ![Mes Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Rajirahoui&show_icons=true&theme=radical)
 
 ## 🌐 Retrouvons-nous !
