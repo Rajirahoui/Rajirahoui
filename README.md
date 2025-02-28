@@ -1,9 +1,9 @@
 # 👋 Bienvenue sur mon profil GitHub !
 
 Je m'appelle Raji RAHOUI, Etudiant en 2éme année Socle Numérique à EPSI, je suis passionné par la création de solutions innovantes. 🚀  
-Curieux et motivé, j'aime apprendre et explorer les nouvelles technologies pour développer des projets impactants. 🌟  
+Curieux et motivé, j'aime apprendre et explorer les nouvelles technologies pour développer des projets impactants.  
 
-## 🔧 Technologies et compétences
+## Technologies et compétences
 - **Langages :** Html, CSS, JavaScript, Python
 - **Outils :** Git, Docker, CI/CD
 
@@ -16,9 +16,8 @@ Curieux et motivé, j'aime apprendre et explorer les nouvelles technologies pour
 
 #
 
-## 🌱 Ce que j'apprends actuellement
+## Ce que j'approfondie actuellement
  - **Langages :** Jsreact, Php, Sql, Symphony.
- - **Frameworks :** React, Django, Node.js
 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
@@ -37,4 +36,4 @@ Curieux et motivé, j'aime apprendre et explorer les nouvelles technologies pour
 - [LinkedIn](https://linkedin.com/in/votreprofil)
 - [Twitter](https://twitter.com/votreprofil)
 
-Merci de visiter mon profil, n'hésitez pas à explorer mes dépôts ou à me contacter pour échanger ! 😊
+N'hésitez pas à explorer mes dépôts ou à me contacter pour échanger ! 😊
