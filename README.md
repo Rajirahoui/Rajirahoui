@@ -5,7 +5,7 @@ Curieux et motivé, j'aime apprendre et explorer les nouvelles technologies pour
 
 ## Technologies et compétences
 - **Langages :** Html, CSS, JavaScript, Python
-- **Outils :** Git, Docker, CI/CD
+- **Outils :** Git, https://github.com/Rajirahoui/Rajirahoui
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
