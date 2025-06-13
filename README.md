@@ -5,8 +5,8 @@ Curieux et motivé, j'aime apprendre et explorer les nouvelles technologies pour
 ---
 
 🎓 **À propos de moi**  
-- 🎓 Étudiante en Bachelor IA à l’EPSI Lille  
-- 👨🏽‍💻 Passionnée par le développement, la data et l’IA  
+- 🎓 Étudiant en Bachelor IA à l’EPSI Lille  
+- 👨🏽‍💻 Passionné par le développement, la data et l’IA  
 - 🔭 J’ai travaillé sur des projets en Html/Css, C#, Flutter, Symfony, React, Python, Sql...
 - 💡 J’aime comprendre les systèmes, modéliser en UML et analyser des données  
 - 📈 Je manipule Power BI, SQL et Python pour la data  
