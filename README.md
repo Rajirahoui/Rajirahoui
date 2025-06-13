@@ -58,6 +58,6 @@ Curieux et motivé, j'aime apprendre et explorer les nouvelles technologies pour
 
 ## 🌐 Retrouvons-nous !
 - [Portfolio](https://portfolio-raji-1.netlify.app)
-- [LinkedIn](https://www.linkedin.com/feed/)
+- [LinkedIn](https://www.linkedin.com/in/raji-rahoui-ab868a344/)
 
 N'hésitez pas à explorer mes dépôts ou à me contacter pour échanger ! 😊
